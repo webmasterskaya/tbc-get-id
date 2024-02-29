@@ -1,0 +1,37 @@
+{
+  "name": "webmasterskaya/tbc-get-id",
+  "type": "library",
+  "description": "Telegram bot command for getting id of users and channels",
+  "keywords": [
+    "telegram",
+    "bot",
+    "php",
+    "php telegram bot",
+    "user id",
+    "channel id"
+  ],
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "homepage": "https://git.webmasterskaya.xyz/tbc/tbc-get-id",
+  "support": {
+    "issues": "https://git.webmasterskaya.xyz/tbc/tbc-get-id/issues",
+    "source": "https://git.webmasterskaya.xyz/tbc/tbc-get-id"
+  },
+  "authors": [
+    {
+      "name": "Artem Vasilev aka kernusr",
+      "email": "kern.usr@gmail.com",
+      "homepage": "https://webmasterskaya.xyz/",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.3|^8.0",
+    "longman/telegram-bot": "^0.82.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Webmasterskaya\\TelegramBotCommands\\": "src/"
+    }
+  }
+}
