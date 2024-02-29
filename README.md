@@ -1,5 +1,9 @@
 # Telegram Bot Command - Get user and chanel id
 
+> [!NOTE]
+> **For GitHub users!** This is mirror! All development takes place [here](https://git.webmasterskaya.xyz/tbc/tbc-get-id) 
+> | Вся разработка ведётся [здесь](https://git.webmasterskaya.xyz/tbc/tbc-get-id)
+
 Implements the ability to get a user or channel ID in Telegram.
 
 Реализует возможность получить ID пользователя или канала в Telegram.
